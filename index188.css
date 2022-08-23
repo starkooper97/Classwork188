@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header {
+  margin: 1.5em;
+  padding: 2em;
+  border: 9px solid gold;
+  font-size: 3em;
+  border-radius: 30px;
+  text-align: center;
+}
+
+.content {
+  margin: 1.5em;
+  padding: 2em;
+  border: 9px dashed orangered;
+  font-size: 2em;
+  border-left-style: groove;
+  border-left-color: mediumorchid;
+  border-right-style: dotted;
+  border-right-color: salmon;
+  border-radius: 30px;
+  line-height: 70px;
+}
+.content2 {
+  text-align: center;
+  text-decoration: dotted;
+  text-transform: uppercase;
+  text-indent: 4px;
+  margin: 1.2em;
+  padding: 0.7em;
+  border: 9px solid rgb(97, 212, 97);
+  border-radius: 30px;
+  margin-bottom: 80px;
+  font-size: 40px;
+  font-weight: 7px;
+}
